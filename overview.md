@@ -1,7 +1,5 @@
 # Overview
 
-
-
 ### 1. Overview <a id="title"></a>
 
 > You can skip the first two steps if you want to jump directly to the working app and start writing tests by following the commands below in the "Code repository" section.
